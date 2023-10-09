@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EloyMuniz/e-commerce-project.git",
+  "author": "Eloy <eloymjunior00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^5.4.1",
+    "prisma-cli": "^1.0.9"
+  }
+}
