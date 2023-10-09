@@ -1,14 +1,12 @@
-# API's para um projeto de  E-commerce
-Este repositório contém o  back end para um sistema de e-commerce.
+# E-commerce Project APIs
+This repository contains the backend for an e-commerce system.
 
-# Descrição
-Esta API tem como objetivo fornecer funcionalidades essenciais para a operação de um e-commerce, incluindo a gestão de produtos, categorias, clientes, pedidos e métodos de pagamento.
+# Description
+This API aims to provide essential functionalities for the operation of an e-commerce, including product management, categories, customers, orders, and payment methods.
 
-# Funcionalidades Principais
-Gestão de Produtos: Adição, remoção, atualização e consulta de produtos no catálogo.
-Gestão de Categorias: Criação, edição e listagem de categorias para organizar os produtos.
-Gestão de Clientes: Cadastro e consulta de informações de clientes, incluindo histórico de pedidos.
-Gestão de Pedidos: Criação, atualização e listagem de pedidos realizados pelos clientes.
-Métodos de Pagamento: Integração com diferentes métodos de pagamento para finalização dos pedidos.
-
-# Projeto em Desenvolvimento
+# Main Features
+Product Management: Adding, removing, updating, and querying products in the catalog.
+Category Management: Creating, editing, and listing categories to organize products.
+Customer Management: Registering and querying customer information, including order history.
+Order Management: Creating, updating, and listing orders placed by customers.
+Payment Methods: Integration with different payment methods for order finalization.
