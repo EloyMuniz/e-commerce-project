@@ -10,3 +10,5 @@ Category Management: Creating, editing, and listing categories to organize produ
 Customer Management: Registering and querying customer information, including order history.
 Order Management: Creating, updating, and listing orders placed by customers.
 Payment Methods: Integration with different payment methods for order finalization.
+
+*Project in Development*
